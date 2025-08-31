@@ -49,7 +49,7 @@
 ---
 
 📫 **Reach Me**:  
-📱 Mobile: +91-95976 45086  
+📱 Mobile: +91-80566 30490
 📧 Email: shankar.freelance.dataengineer@gmail.com  
 🔗 GitHub: [github.com/Shankarkk](https://github.com/Shankarkk)
 
