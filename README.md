@@ -5,7 +5,7 @@ Freelance Snowflake + dbt Developer | Data Engineer
 - Stack: Snowflake | dbt | SQL | AWS S3 | ADF
 - I build ELT pipelines and reusable analytics marts (tested, incremental, CI/CD)
 
-📂 [Portfolio (Notion Public)](https://www.notion.so/your-public-link)
+📂 [Portfolio (Notion Public)](https://www.notion.so/Shankar-Kamalakannan-Portfolio-24e80659592e80529c5ad53a70d55de2source=copy_link)
 📧 Email: shankar.freelance.dataengineer@gmail.com
 
 > “I don’t need to be perfect — I just need to show that I can think, adapt, and deliver value step by step.”  
