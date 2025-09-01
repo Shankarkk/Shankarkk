@@ -1,11 +1,9 @@
-# Hi, I'm Shankar Kamalakannan
-Freelance Snowflake + dbt Developer | Data Engineer
+# 👋 Hi, I'm Shankar Kamalakannan  
+Freelance Snowflake + dbt Developer | Data Engineer  
 
-- Domain: BFSI (Mortgage & Retail Banking)
-- Stack: Snowflake | dbt | SQL | AWS S3 | ADF
-- I build ELT pipelines and reusable analytics marts (tested, incremental, CI/CD)
-
-📂 [Portfolio (Notion Public)](https://tinyurl.com/Shankar-portfolio-site)
+🌐 Domain: BFSI (Mortgage & Retail Banking)  
+⚡ Stack: Snowflake | dbt | SQL | AWS S3 | ADF  
+📂 [Portfolio (Notion Public)](https://tinyurl.com/Shankar-Portfolio)  
 📧 Email: shankar.freelance.dataengineer@gmail.com
 
 > “I don’t need to be perfect — I just need to show that I can think, adapt, and deliver value step by step.”  
