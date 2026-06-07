@@ -6,7 +6,7 @@ Data Engineer | Snowflake & dbt Specialist | BFSI Domain Experience
 
 ⚡ Stack: Snowflake | dbt | SQL | Python | AWS S3 | Azure Data Factory | GitHub Actions
 
-📂 Portfolio (Notion Public)
+📂 [Portfolio (Notion Public)](https://tinyurl.com/Shankar-K-Portfolio)
 
 📧 Email: shankar.freelance.dataengineer@gmail.com
 
