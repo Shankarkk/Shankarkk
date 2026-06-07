@@ -1,54 +1,154 @@
-# 👋 Hi, I'm Shankar Kamalakannan  
-Freelance Snowflake + dbt Developer | Data Engineer  
+👋 Hi, I'm Shankar Kamalakannan
 
-🌐 Domain: BFSI (Mortgage & Retail Banking)  
-⚡ Stack: Snowflake | dbt | SQL | AWS S3 | ADF  
-📂 [Portfolio (Notion Public)](https://tinyurl.com/Shankar-K-Portfolio)  
+Data Engineer | Snowflake & dbt Specialist | BFSI Domain Experience
+
+🌐 Domain: BFSI (Mortgage & Retail Banking)
+
+⚡ Stack: Snowflake | dbt | SQL | Python | AWS S3 | Azure Data Factory | GitHub Actions
+
+📂 Portfolio (Notion Public)
+
 📧 Email: shankar.freelance.dataengineer@gmail.com
 
-> “I don’t need to be perfect — I just need to show that I can think, adapt, and deliver value step by step.”  
+I build scalable data platforms that combine reliable ELT pipelines, automation, testing, governance, and operational visibility.
 
----
+My focus is on designing maintainable and business-aligned data systems using Snowflake and dbt, with experience supporting mortgage and retail banking workflows. I enjoy transforming complex business processes into structured, automated, and auditable data solutions that remain reliable as they grow.
 
-## 🔹 About Me  
-- I design **scalable ELT pipelines** using **Snowflake + dbt** with strong testing and CI/CD practices.  
-- Comfortable with **Streams, Tasks, Snowpipe, Procedures**, and **dbt** (incremental models, macros, snapshots, tests, dbt Cloud Jobs).  
-- Data stack: **SQL**, **Python**, **AWS S3**, **Azure Data Factory**, **GitHub Actions**.  
-- I care about **clarity, automation, and steady delivery** — both in projects and personal workflows.  
+Beyond data engineering, I actively explore workflow automation, governance-aware architectures, AI-enabled knowledge systems, and operational excellence practices that improve how organizations manage data and decision-making.
 
----
+“I don’t need to be perfect — I just need to show that I can think, adapt, and deliver value step by step.”
 
-## 🔹 Projects  
+🔹 About Me
 
-### 🏗 E-Commerce Analytics Platform  
-- Built end-to-end **Snowflake + dbt** pipelines (raw → staging → marts).  
-- Models for **customer segmentation, order ranking, cohort analysis**.  
-- **Streams & Tasks** for automated daily refresh; **dbt tests** for reliability (95%+ accuracy).  
-- CI/CD with **GitHub Actions + dbt Cloud Jobs** across DEV → UAT → PROD.  
+• Design and develop scalable ELT pipelines using Snowflake and dbt
 
-### 🏦 Mortgage Post-Sanction Documentation Tracker  
-- Domain-driven data platform for **BFSI compliance** visibility.  
-- **Document verification matrix**, pending flags, and escalation logic.  
-- Automation via **dbt macros, Snowflake procedures, ADF triggers**; audit-ready layer with tests.  
+• Strong experience with Snowflake Streams, Tasks, Snowpipe, Procedures, Views, and Materialized Views
 
-### ⚡ Personal Automation Ecosystem (Notion + Zapier + Gmail)  
-- **Job & project tracker** in Notion with **Zapier** email ingestion and structured boards.  
-- Automated reminders and follow-ups; reduced manual updates significantly.  
+• Build modular dbt projects using incremental models, macros, snapshots, tests, and deployment workflows
 
----
+• Implement CI/CD practices using GitHub Actions and dbt Cloud Jobs
 
-## 🔹 Skills  
-- **Snowflake**: Streams, Tasks, Snowpipe, Procedures, Views, Materialized Views  
-- **dbt**: Incremental Models, Macros, Snapshots, Tests, dbt Cloud Jobs, CI/CD  
-- **Data**: SQL (CTEs, window functions), Python (scripting/automation), Data Warehousing, ELT  
-- **Cloud & Orchestration**: AWS S3, Azure Data Factory, GitHub Actions  
-- **Domain**: BFSI (Mortgage Documentation, Retail Banking, Compliance)  
-- **Ways of Working**: Agile delivery, stakeholder communication, end-to-end ownership  
+• Work with AWS S3, Azure Data Factory, SQL, and Python for orchestration and automation
 
----
+• Focus on data quality, governance, auditability, maintainability, and operational reliability
 
-## 🔹 Contact & Links  
-📧 Email: **shankar.freelance.dataengineer@gmail.com**  
-🔗 LinkedIn: **https://linkedin.com/in/shankar-kamalakannan-kk**  
-💻 GitHub: **https://github.com/Shankarkk**  
-📄 Resume (PDF): **[https://drive.google.com/file/d/1QI2p7nyok7-d-AWJoRH9oBeglenADDj_/view?usp=drivesdk]**
+• Comfortable taking ownership from requirements through deployment and support
+
+🔹 Featured Projects
+
+🏗 E-Commerce Analytics Platform
+
+Designed and implemented an end-to-end analytics platform using Snowflake and dbt, covering data ingestion, transformation, testing, deployment, and reporting-ready marts.
+
+Key capabilities:
+
+• Raw → Staging → Mart architecture using dbt models
+
+• Customer segmentation, cohort analysis, order ranking, and business KPI reporting
+
+• Snowflake Streams and Tasks for automated incremental processing
+
+• dbt tests, snapshots, and documentation for data quality and reliability
+
+• CI/CD pipelines using GitHub Actions and dbt Cloud Jobs across DEV → UAT → PROD environments
+
+• Designed for scalability, maintainability, and operational visibility
+
+Technologies: Snowflake, dbt, SQL, AWS S3, GitHub Actions
+
+🏦 Mortgage Post-Sanction Documentation Tracker
+
+Built a domain-driven data platform to improve visibility into post-sanction mortgage documentation and compliance workflows.
+
+Key capabilities:
+
+• Document verification tracking and compliance monitoring
+
+• Pending document identification and escalation workflows
+
+• Audit-ready reporting layer with automated validation checks
+
+• dbt macros, Snowflake procedures, and Azure Data Factory orchestration for workflow automation
+
+• Business-focused data models supporting operational and compliance teams
+
+Technologies: Snowflake, dbt, SQL, Azure Data Factory
+
+⚡ Personal Automation Ecosystem (Notion + Zapier + Gmail)
+
+Designed a lightweight productivity and workflow automation ecosystem for personal project and opportunity management.
+
+Key capabilities:
+
+• Automated email ingestion into Notion using Zapier
+
+• Structured tracking for projects, applications, and follow-ups
+
+• Automated reminders and workflow notifications
+
+• Reduced manual effort through repeatable process automation
+
+Technologies: Notion, Zapier, Gmail Automation
+
+🔹 Technical Skills
+
+Data Engineering
+
+• Snowflake
+• dbt
+• SQL
+• Python
+• Data Warehousing
+• ELT Design
+• Data Modeling
+
+Snowflake
+
+• Streams
+• Tasks
+• Snowpipe
+• Procedures
+• Views
+• Materialized Views
+
+dbt
+
+• Incremental Models
+• Macros
+• Snapshots
+• Tests
+• Documentation
+• dbt Cloud Jobs
+• CI/CD
+
+Cloud & Orchestration
+
+• AWS S3
+• Azure Data Factory
+• GitHub Actions
+
+Domain Knowledge
+
+• Mortgage Documentation Workflows
+• Retail Banking
+• Compliance Reporting
+• Audit Readiness
+• Operational Visibility
+
+Ways of Working
+
+• Agile Delivery
+• Stakeholder Communication
+• End-to-End Ownership
+• Automation First Mindset
+• Governance & Reliability Focus
+
+🔹 Contact & Links
+
+📧 Email: shankar.freelance.dataengineer@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/shankar-kamalakannan-kk
+
+💻 GitHub: https://github.com/Shankarkk
+
+📄 Resume (PDF): https://drive.google.com/file/d/1QI2p7nyok7-d-AWJoRH9oBeglenADDj_/view
