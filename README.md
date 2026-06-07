@@ -147,7 +147,7 @@ Ways of Working
 
 📧 Email: shankar.freelance.dataengineer@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/shankar-kamalakannan-kk
+🔗 LinkedIn: https://linkedin.com/in/shankar-datengineer
 
 💻 GitHub: https://github.com/Shankarkk
 
