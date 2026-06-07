@@ -1,8 +1,8 @@
 👋 Hi, I'm Shankar Kamalakannan
 
-Data Engineer | Snowflake & dbt Specialist | BFSI Domain Experience
+Data Engineer | Snowflake & dbt Specialist | Analytics & Data Platform Builder
 
-🌐 Domain: BFSI (Mortgage & Retail Banking)
+🌐 Focus Areas: E-Commerce Analytics | Data Platforms | BFSI Workflows
 
 ⚡ Stack: Snowflake | dbt | SQL | Python | AWS S3 | Azure Data Factory | GitHub Actions
 
@@ -12,11 +12,9 @@ Data Engineer | Snowflake & dbt Specialist | BFSI Domain Experience
 
 I build scalable data platforms that combine reliable ELT pipelines, automation, testing, governance, and operational visibility.
 
-My focus is on designing maintainable and business-aligned data systems using Snowflake and dbt, with experience supporting mortgage and retail banking workflows. I enjoy transforming complex business processes into structured, automated, and auditable data solutions that remain reliable as they grow.
+My focus is on designing maintainable and business-aligned data systems using Snowflake and dbt. I have worked across analytics, automation, and workflow-driven use cases, including e-commerce reporting and mortgage documentation processes.
 
 Beyond data engineering, I actively explore workflow automation, governance-aware architectures, AI-enabled knowledge systems, and operational excellence practices that improve how organizations manage data and decision-making.
-
-“I don’t need to be perfect — I just need to show that I can think, adapt, and deliver value step by step.”
 
 🔹 About Me
 
